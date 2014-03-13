@@ -1,0 +1,9 @@
+F:\BioSCADA\Neurolog\VisualStudio\Neurolog\ThinkGearNET\obj\x86\Debug\ThinkGearNET.Properties.Resources.resources
+F:\BioSCADA\Neurolog\VisualStudio\Neurolog\ThinkGearNET\obj\x86\Debug\ThinkGearNET.csproj.GenerateResource.Cache
+F:\BioSCADA\Neurolog\VisualStudio\Neurolog\ThinkGearNET\obj\x86\Debug\ThinkGearNET.dll
+F:\BioSCADA\Neurolog\VisualStudio\Neurolog\ThinkGearNET\obj\x86\Debug\ThinkGearNET.pdb
+F:\BioSCADA\Neurolog\VisualStudio\Neurolog\ThinkGearNET\ThinkGearNET.dll.config
+F:\BioSCADA\Neurolog\VisualStudio\Neurolog\ThinkGearNET\ThinkGearNET.dll
+F:\BioSCADA\Neurolog\VisualStudio\Neurolog\ThinkGearNET\ThinkGearNET.pdb
+F:\BioSCADA\Neurolog\VisualStudio\Neurolog\ThinkGearNET\bin\Release\ThinkGearNET.dll
+F:\BioSCADA\Neurolog\VisualStudio\Neurolog\ThinkGearNET\bin\Release\ThinkGearNET.pdb

@@ -1,0 +1,54 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!--Background-->
+    <SolidColorBrush x:Key="Background" Color="#d6d6d6"/>
+    <SolidColorBrush x:Key="LightBackground" Color="#dbdbdb"/>
+    <SolidColorBrush x:Key="GreenColor" Color="#94bb65"/>
+    <SolidColorBrush x:Key="RedColor" Color="#7b0100"/>
+    <SolidColorBrush x:Key="BlueColor" Color="#4682b4"/>
+    <Color x:Key="AccentColor">#7b0100</Color>
+    <Color x:Key="WhiteColor">#5c5c5c</Color>
+    <Color x:Key="BlackColor">#dcdcdc</Color>
+     
+    <XmlDataProvider x:Name="PeopleProvider" x:Key="PeopleProvider" Source="Data/People.xml" XPath="/People/Person"  /> 
+    <XmlDataProvider x:Name="ReportProvider" x:Key="ReportProvider" Source="Data/Report.xml" XPath="/Acquisitions/Acquisition"  /> 
+    <XmlDataProvider x:Name="SamplesProvider" x:Key="SamplesProvider" Source="Data/Samples.xml" XPath="/Samples/Sample"  />
+
+    <!--Foreground-->
+    <SolidColorBrush x:Key="Foreground" Color="#565656"/>
+    
+    <!--General-->
+    <SolidColorBrush x:Key="BackgroundHighlighted" Color="#d6d6d6"/>
+    <SolidColorBrush x:Key="BorderBrushHighlighted" Color="#b6b6b6"/>
+    <SolidColorBrush x:Key="BackgroundSelected" Color="#949494"/>
+    <SolidColorBrush x:Key="BorderBrushSelected" Color="#b6b6b6"/>
+    <SolidColorBrush x:Key="BackgroundNormal" Color="#dbdbdb"/>
+    <SolidColorBrush x:Key="BorderBrushNormal" Color="#b6b6b6"/>
+   
+    <!--Text Box-->
+    <SolidColorBrush x:Key="TextBoxBackground" Color="#fff"/>
+    <SolidColorBrush x:Key="TextBoxBackgroundSelected" Color="#bebebe"/>
+    
+    <!--Search Text Box-->
+    <SolidColorBrush x:Key="SearchTextForeground" Color="#999999"/>
+    
+    <!--Link Button-->
+    <SolidColorBrush x:Key="LinkButtonForeground" Color="#4682b4"/>
+    <SolidColorBrush x:Key="LinkButtonForegroundHighlighted" Color="#007ACC"/>
+    
+    <!--Close Button-->
+    <SolidColorBrush x:Key="CloseButtonBackgroundHighlighted" Color="#39ADFB"/>
+    <SolidColorBrush x:Key="CloseButtonBackgroundPressed" Color="#084E7D"/>
+    <SolidColorBrush x:Key="CloseButtonStroke" Color="#AAFFFFFF"/>
+    <SolidColorBrush x:Key="CloseButtonStrokeHighlighted" Color="#FFFFFF"/>
+    
+    <!--Menu-->
+    <SolidColorBrush x:Key="MenuSeparatorBorderBrush" Color="#333337"/>
+    <SolidColorBrush x:Key="MenuItemHighlightedBackground" Color="#3E3E40"/>
+    <SolidColorBrush x:Key="SubmenuItemBackground" Color="#1B1B1C"/>
+    <SolidColorBrush x:Key="SubmenuItemBackgroundHighlighted" Color="#333334"/>
+    <SolidColorBrush x:Key="MenuDisabledForeground" Color="#656565"/>
+    
+    <!--Scroll Bar-->
+    <SolidColorBrush x:Key="ScrollBarPageButtonBackgroundHighlighted" Color="#05FFFFFF"/>
+</ResourceDictionary>

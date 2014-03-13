@@ -1,0 +1,10 @@
+F:\BioSCADA\Neurolog\VisualStudio\Neurolog\Selen.Wpf.Core\bin\Release\Selen.Wpf.Core.dll
+F:\BioSCADA\Neurolog\VisualStudio\Neurolog\Selen.Wpf.Core\bin\Release\Selen.Wpf.Core.pdb
+F:\BioSCADA\Neurolog\VisualStudio\Neurolog\Selen.Wpf.Core\obj\Release\Resources.baml
+F:\BioSCADA\Neurolog\VisualStudio\Neurolog\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core_MarkupCompile.cache
+F:\BioSCADA\Neurolog\VisualStudio\Neurolog\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.g.resources
+F:\BioSCADA\Neurolog\VisualStudio\Neurolog\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.Properties.Resources.resources
+F:\BioSCADA\Neurolog\VisualStudio\Neurolog\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.csproj.GenerateResource.Cache
+F:\BioSCADA\Neurolog\VisualStudio\Neurolog\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.dll
+F:\BioSCADA\Neurolog\VisualStudio\Neurolog\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.pdb
+F:\BioSCADA\Neurolog\VisualStudio\Neurolog\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.csprojResolveAssemblyReference.cache

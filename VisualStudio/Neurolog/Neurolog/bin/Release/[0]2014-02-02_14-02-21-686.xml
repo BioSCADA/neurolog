@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Samples>
+  <Sample>
+    <Login>0</Login>
+    <Timestamp>2014-02-02 14:02:22.077</Timestamp>
+    <Battery>0</Battery>
+    <Attention>-1.9949</Attention>
+    <Meditation>800</Meditation>
+    <Alpha1>0</Alpha1>
+    <Beta1 />
+    <Coherence>0</Coherence>
+    <TAG>0</TAG>
+  </Sample>
+  <Sample>
+    <Login>0</Login>
+    <Timestamp>2014-02-02 14:02:23.079</Timestamp>
+    <Battery>0</Battery>
+    <Attention>0.1111423</Attention>
+    <Meditation>807.5</Meditation>
+    <Alpha1>0</Alpha1>
+    <Beta1 />
+    <Coherence>0</Coherence>
+    <TAG>0</TAG>
+  </Sample>
+  <Sample>
+    <Login>0</Login>
+    <Timestamp>2014-02-02 14:02:24.114</Timestamp>
+    <Battery>0</Battery>
+    <Attention>-0.8122083</Attention>
+    <Meditation>812.9904</Meditation>
+    <Alpha1>0</Alpha1>
+    <Beta1 />
+    <Coherence>0</Coherence>
+    <TAG>0</TAG>
+  </Sample>
+  <Sample>
+    <Login>0</Login>
+    <Timestamp>2014-02-02 14:02:25.169</Timestamp>
+    <Battery>0</Battery>
+    <Attention>4.028841</Attention>
+    <Meditation>815</Meditation>
+    <Alpha1>0</Alpha1>
+    <Beta1 />
+    <Coherence>0</Coherence>
+    <TAG>0</TAG>
+  </Sample>
+  <Sample>
+    <Login>0</Login>
+    <Timestamp>2014-02-02 14:02:26.179</Timestamp>
+    <Battery>0</Battery>
+    <Attention>-0.8122083</Attention>
+    <Meditation>812.9904</Meditation>
+    <Alpha1>0</Alpha1>
+    <Beta1 />
+    <Coherence>0</Coherence>
+    <TAG>0</TAG>
+  </Sample>
+</Samples>

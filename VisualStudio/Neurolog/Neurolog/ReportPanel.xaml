@@ -1,0 +1,30 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:BioSCADA" x:Class="BioSCADA.ReportPanel" 
+             mc:Ignorable="d" Height="472" Width="662"  >
+    <Grid Margin="0">
+        <Grid.Resources>
+            <!-- The DataTemplate for a <Person> element. -->
+            <DataTemplate DataType="Acquisition">
+                <StackPanel HorizontalAlignment="Stretch">
+                    <TextBlock FontWeight="Bold" >Id: <TextBlock Text="{Binding XPath=./Id}" FontWeight="Normal" /></TextBlock>
+                    <TextBlock FontWeight="Bold">Timestamp: <TextBlock  Text="{Binding XPath=./Timestamp}" FontWeight="Normal" /></TextBlock>
+                    <TextBlock FontWeight="Bold">Arquivo: <TextBlock  Text="{Binding XPath=./File}" FontWeight="Normal" /></TextBlock>
+                </StackPanel>
+
+            </DataTemplate>
+
+        </Grid.Resources>
+
+        <local:SessionPanel x:Name="session_panel"  Margin="10,156,10,10" Width="Auto" Height="Auto" />
+        <ListBox x:Name="lb_aquisitions" IsSynchronizedWithCurrentItem="True" DataContext="{DynamicResource ReportProvider}"  ItemsSource="{Binding}" Margin="10,10,0,0" Width="304" HorizontalAlignment="Left" FontFamily="Roboto" SelectionChanged="lb_aquisitions_SelectionChanged" MouseDoubleClick="lb_aquisitions_MouseDoubleClick" Foreground="{DynamicResource Foreground}" Height="141" VerticalAlignment="Top"  />
+        <TextBlock x:Name="lb_filename" DataContext="{DynamicResource ReportProvider}"  FontWeight="Bold" Text="{Binding XPath=./File}" TextAlignment="Center" Margin="0,10,10,0" FontFamily="Roboto" FontSize="14" VerticalAlignment="Top" HorizontalAlignment="Right" Width="240" Foreground="{DynamicResource Foreground}" Visibility="Hidden"  />
+        <Grid HorizontalAlignment="Left" Height="141" Margin="319,10,0,0" VerticalAlignment="Top" Width="333">
+            <Label x:Name="lbl_atention" Content="Atenção" Margin="0,10,75,10" Width="120" HorizontalAlignment="Right" Foreground="{DynamicResource Foreground}"/>
+            <Label x:Name="lbl_meditation" Content="Meditação" HorizontalAlignment="Left" Margin="10,10,0,10" Width="120" Foreground="{DynamicResource Foreground}"/>
+        </Grid>
+    </Grid>
+</UserControl>
