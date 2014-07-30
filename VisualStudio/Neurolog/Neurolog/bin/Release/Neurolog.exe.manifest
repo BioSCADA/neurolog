@@ -56,14 +56,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Neurolog.exe" size="163328">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Neurolog.exe" size="162304">
       <assemblyIdentity name="Neurolog" version="2.0.0.0" language="neutral" processorArchitecture="x86" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>OyzsBjdnLIiu2NAiZDDXwKRgmH3FDn1Ir4tvC1E/vNk=</dsig:DigestValue>
+        <dsig:DigestValue>q05Mp8kcgwnWFcRV+kWaYTKTNyRXAUE9YVrTnOY585M=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -75,7 +75,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>hcvMXQvnEUAg53nNInjJffyBkex5v3NZdniIjQO1E0E=</dsig:DigestValue>
+        <dsig:DigestValue>XSnP+IZWa7WtuAuGqEoVaVU1r5wJqFaNsD8A5uKuqmo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -87,7 +87,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>Ruwf5qfLdEdIh47zvfLehyEg5qoQf3wdHBiNeBVysoU=</dsig:DigestValue>
+        <dsig:DigestValue>d+G4THaCrHk28qGMkSDHOtl0sfft393SmEt2AmY7a44=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

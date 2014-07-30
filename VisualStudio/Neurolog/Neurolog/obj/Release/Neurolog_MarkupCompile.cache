@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-F:\BioSCADA\Neurolog\VisualStudio\Neurolog\Neurolog\obj\Release\
+C:\Users\Diego\Documents\GitHub\neurolog\VisualStudio\Neurolog\Neurolog\obj\Release\
 Neurolog
 none
 false
 TRACE
-F:\BioSCADA\Neurolog\VisualStudio\Neurolog\Neurolog\App.xaml
+C:\Users\Diego\Documents\GitHub\neurolog\VisualStudio\Neurolog\Neurolog\App.xaml
 61218395625
 
 29-1745766736
-28-628855590
+28-1212261711
 Neurosky\View\ChartPanel.xaml;DevicePanel.xaml;MainWindow.xaml;ReportPanel.xaml;SessionPanel.xaml;UserLogin.xaml;
 images\splashscreen.png
 False

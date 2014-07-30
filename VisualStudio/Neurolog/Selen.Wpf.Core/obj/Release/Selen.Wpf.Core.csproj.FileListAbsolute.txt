@@ -8,3 +8,13 @@ F:\BioSCADA\Neurolog\VisualStudio\Neurolog\Selen.Wpf.Core\obj\Release\Selen.Wpf.
 F:\BioSCADA\Neurolog\VisualStudio\Neurolog\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.dll
 F:\BioSCADA\Neurolog\VisualStudio\Neurolog\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.pdb
 F:\BioSCADA\Neurolog\VisualStudio\Neurolog\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\GitHub\neurolog\VisualStudio\Neurolog\Selen.Wpf.Core\bin\Release\Selen.Wpf.Core.dll
+C:\Users\Diego\Documents\GitHub\neurolog\VisualStudio\Neurolog\Selen.Wpf.Core\bin\Release\Selen.Wpf.Core.pdb
+C:\Users\Diego\Documents\GitHub\neurolog\VisualStudio\Neurolog\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\GitHub\neurolog\VisualStudio\Neurolog\Selen.Wpf.Core\obj\Release\Resources.baml
+C:\Users\Diego\Documents\GitHub\neurolog\VisualStudio\Neurolog\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core_MarkupCompile.cache
+C:\Users\Diego\Documents\GitHub\neurolog\VisualStudio\Neurolog\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.g.resources
+C:\Users\Diego\Documents\GitHub\neurolog\VisualStudio\Neurolog\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.Properties.Resources.resources
+C:\Users\Diego\Documents\GitHub\neurolog\VisualStudio\Neurolog\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.csproj.GenerateResource.Cache
+C:\Users\Diego\Documents\GitHub\neurolog\VisualStudio\Neurolog\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.dll
+C:\Users\Diego\Documents\GitHub\neurolog\VisualStudio\Neurolog\Selen.Wpf.Core\obj\Release\Selen.Wpf.Core.pdb
