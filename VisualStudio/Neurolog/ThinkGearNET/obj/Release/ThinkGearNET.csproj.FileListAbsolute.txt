@@ -7,3 +7,13 @@ F:\BioSCADA\Neurolog\VisualStudio\Neurolog\ThinkGearNET\obj\Release\ThinkGearNET
 F:\BioSCADA\Neurolog\VisualStudio\Neurolog\ThinkGearNET\obj\Release\ThinkGearNET.csproj.GenerateResource.Cache
 F:\BioSCADA\Neurolog\VisualStudio\Neurolog\ThinkGearNET\obj\Release\ThinkGearNET.dll
 F:\BioSCADA\Neurolog\VisualStudio\Neurolog\ThinkGearNET\obj\Release\ThinkGearNET.pdb
+C:\Users\Diego\Documents\GitHub\neurolog\VisualStudio\Neurolog\ThinkGearNET\bin\Release\ThinkGearNET.dll
+C:\Users\Diego\Documents\GitHub\neurolog\VisualStudio\Neurolog\ThinkGearNET\bin\Release\ThinkGearNET.pdb
+C:\Users\Diego\Documents\GitHub\neurolog\VisualStudio\Neurolog\ThinkGearNET\bin\Release\ThinkGearNET.dll.CodeAnalysisLog.xml
+C:\Users\Diego\Documents\GitHub\neurolog\VisualStudio\Neurolog\ThinkGearNET\bin\Release\ThinkGearNET.dll.lastcodeanalysissucceeded
+C:\Users\Diego\Documents\GitHub\neurolog\VisualStudio\Neurolog\ThinkGearNET\bin\Release\ThinkGearNET.tlb
+C:\Users\Diego\Documents\GitHub\neurolog\VisualStudio\Neurolog\ThinkGearNET\obj\Release\ThinkGearNET.csprojResolveAssemblyReference.cache
+C:\Users\Diego\Documents\GitHub\neurolog\VisualStudio\Neurolog\ThinkGearNET\obj\Release\ThinkGearNET.Properties.Resources.resources
+C:\Users\Diego\Documents\GitHub\neurolog\VisualStudio\Neurolog\ThinkGearNET\obj\Release\ThinkGearNET.csproj.GenerateResource.Cache
+C:\Users\Diego\Documents\GitHub\neurolog\VisualStudio\Neurolog\ThinkGearNET\obj\Release\ThinkGearNET.dll
+C:\Users\Diego\Documents\GitHub\neurolog\VisualStudio\Neurolog\ThinkGearNET\obj\Release\ThinkGearNET.pdb

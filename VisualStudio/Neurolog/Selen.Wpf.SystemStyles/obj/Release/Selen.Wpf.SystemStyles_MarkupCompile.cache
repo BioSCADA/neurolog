@@ -4,7 +4,7 @@
 library
 C#
 .cs
-F:\BioSCADA\Neurolog\VisualStudio\Neurolog\Selen.Wpf.SystemStyles\obj\Release\
+C:\Users\Diego\Documents\GitHub\neurolog\VisualStudio\Neurolog\Selen.Wpf.SystemStyles\obj\Release\
 Selen.Wpf.SystemStyles
 none
 false
@@ -13,7 +13,7 @@ TRACE
 12646347323
 
 3-630027162
-15-2017729833
+15-1290717752
 ButtonStyles.xaml;ComboBoxStyles.xaml;PasswordBoxStyles.xaml;DataGridStyles.xaml;GroupBoxStyles.xaml;ListBoxStyles.xaml;MenuStyles.xaml;ScrollBarStyles.xaml;Styles.xaml;TabControlStyles.xaml;TextBoxStyles.xaml;WindowStyles.xaml;
 
 False
