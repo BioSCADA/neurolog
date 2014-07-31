@@ -1,8 +1,11 @@
-#Neurolog®
+#Neurolog
 
 Windows datalogger to <a href="http://neurosky.com/"> Neurosky Mindwave </a>.
 
-### BioSCADA® - SCADA for Humans™
+### BioSCADA - SCADA for Humans
+
+
+Third party copyrights are property of their respective owners.
 
 <a href="https://bioscada.me"><img src="https://bioscada.me/images/logo.png" align="left" hspace="10" vspace="6"></a>
 
