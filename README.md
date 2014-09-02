@@ -4,6 +4,7 @@ Windows datalogger to <a href="http://neurosky.com/"> Neurosky Mindwave </a>.
 
 ### BioSCADA - SCADA for Humans
 
+## Open Source
 
 <a href="https://bioscada.me"><img src="https://bioscada.me/images/logo.png" align="left" hspace="10" vspace="6"></a>
 
